@@ -30,7 +30,7 @@ Implementar una función capaz de leer texto desde un file descriptor una línea
   ```bash
   -D BUFFER_SIZE=<valor>
 
-  ---
+---
 
   ## ⚙️ Compilación
 
